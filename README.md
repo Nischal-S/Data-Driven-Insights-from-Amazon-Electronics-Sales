@@ -1,7 +1,7 @@
 Data-Driven-Insights-from-Amazon-Electronics-Sales
 📊 Amazon Electronics Sales Data Analysis Using Python
 
-This project was done by me in 2021 while learning the course data analytics, this project presents a comprehensive exploratory data analysis (EDA) of Amazon's electronics product sales dataset using Python. The analysis is focused on identifying sales trends, brand performance, and customer behavior patterns across various timeframes. It leverages data science tools to generate actionable insights relevant to the e-commerce and consumer electronics domains.
+This project was done by me in 2025 while learning the course data analytics, this project presents a comprehensive exploratory data analysis (EDA) of Amazon's electronics product sales dataset using Python. The analysis is focused on identifying sales trends, brand performance, and customer behavior patterns across various timeframes. It leverages data science tools to generate actionable insights relevant to the e-commerce and consumer electronics domains.
 
 Project Objective The main goal of this project is to:
 
